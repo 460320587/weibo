@@ -165,6 +165,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state width="2518" height="396" key="GridCell.Tab.0.bottom" timestamp="1603791069734">
       <screen x="1920" y="0" width="2560" height="1440" />
@@ -186,6 +197,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3024" y="647" key="NewPhpFileDialog/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1603784176996" />
+    <state x="2800" y="456" key="Vcs.Push.Dialog.v2" timestamp="1603847338234">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2800" y="456" key="Vcs.Push.Dialog.v2/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1603847338234" />
     <state x="2871" y="463" width="657" height="514" key="find.popup" timestamp="1603784042909">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
